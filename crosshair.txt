@@ -1,0 +1,26 @@
+太子：CSGO-z7zKv-fh3DX-63p7Z-8uwSq-8Er7C
+
+黑十字 0;p;0;s;1;P;c;8;u;000000FF;h;0;b;1;f;0;m;1;0l;5;0v;3;0g;1;0o;1;0a;1;0e;0.13;1b;0;A;h;0;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;0;s;0.628;o;1
+
+46YCX-6G3YP-7V6XP-KFR7V-R7JGZ
+
+>Lastest Crosshair<
+0;p;0;s;1;P;u;000000FF;o;1;s;0;0l;1;0o;4;0a;1;0f;0;1b;0;A;o;1;0b;0;1t;1;1l;1;1o;0;1a;1;1m;0;1f;0;S;c;0;t;000000FF;o;1
+
+>New Crosshair 1<
+0;s;1;P;u;000000FF;o;1;0b;0;1t;1;1l;1;1v;0;1o;1;1a;1;1m;0;1f;0;S;c;0;t;000000FF;o;1
+
+>OG Crosshair<
+0;s;1;P;c;7;u;000000FF;o;1;0t;1;0l;1;0v;4;0o;4;0a;1;0f;0;1t;1;1l;1;1o;3;1a;0;1m;0;1f;0;S;s;1.031 
+ 
+>UFO Crosshair<
+0;s;1;P;c;8;u;000000FF;o;1;b;1;s;0;0t;3;0l;1;0v;0;0g;1;0o;0;0a;1;0f;0;1t;1;1l;4;1g;1;1o;0;1a;1;1m;0;1f;0;S;c;0;o;1
+ 
+>DOT Crosshair<
+0;s;1;P;c;8;o;1;b;1;0b;0;1t;1;1l;1;1v;10;1o;0;1a;0;1m;0;1f;0;S;b;1;c;8;t;000000FF;o;1
+
+>"Dream Crosshair"<
+0;p;0;s;1;P;c;5;u;000000FF;h;0;s;0;0l;4;0v;2;0g;1;0o;2;0a;1;0f;0;1b;0;A;c;8;u;000000FF;o;1;d;1;b;1;0b;0;1b;0;S;b;1;c;8;t;000000FF;s;0.8;o;1
+
+>Badag Crosshair<
+0;s;1;P;c;5;u;3B2F2FFF;o;1;f;0;s;0;0l;1;0v;0;0o;1;0a;1;0e;0.2;1l;4;1v;0;1o;4;1a;1;1m;0;1e;0.2;S;t;000000FF;s;0.5;o;1.
